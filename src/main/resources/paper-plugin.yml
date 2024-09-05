@@ -1,0 +1,8 @@
+name: EvoTemplate
+version: '1.0-SNAPSHOT'
+main: org.laykon.evoTemplate.EvoTemplate
+api-version: '1.21'
+
+commands:
+  placeholder:
+    description: A placeholder command
